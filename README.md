@@ -10,6 +10,7 @@
 - 💻 I use daily **.js**, **.html**, **.css**.
 - 📖 I am currently reading **Rich Dad Poor Dad** by Robert Kiyosaki
 - 💬 Talk to me about silicon valley, startups, movies & series.
+- 📧 Contact me at: [dhanwanisunny678@gmail.com](mailto:dhanwanisunny678@gmail.com)
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
