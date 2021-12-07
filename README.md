@@ -8,7 +8,7 @@
 - 🏦 I'm a Full Stack Web Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.html**, **.css**.
-- 🌐 Checkout my [portfolio](https://zen-bell-f7645d.netlify.app/)
+- 🌐 Checkout my [portfolio](https://sunnydhanwani.netlify.app/)
 - 📖 I am currently reading **Rich Dad Poor Dad** by Robert Kiyosaki
 - 💬 Talk to me about silicon valley, startups, movies & series.
 - 📧 Contact me at: [dhanwanisunny678@gmail.com](mailto:dhanwanisunny678@gmail.com)
