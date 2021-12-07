@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a href="https://linkedin.com/in/sunny-dhanwani" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunnydhanwani" height="30" width="30" /></a>&nbsp;
 
 <p align="center">
-      <img src="https://magiccopy.xyz/assets/images/hadder.gif" margin="auto" width="50%" />
+      <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" margin="auto" width="50%" />
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
