@@ -5,7 +5,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Full Stack Web Developer
+- 🏦 Currently, I'm working as a Frontend Web Developer at [Chace](https://github.com/Chace-Inc)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.html**, **.css**.
 - 🌐 Checkout my [portfolio](https://sunnydhanwani.netlify.app/)
