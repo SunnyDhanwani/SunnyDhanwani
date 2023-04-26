@@ -5,24 +5,18 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 Currently, I'm working as a Frontend Web Developer at [Chace](https://github.com/Chace-Inc)
+- 🏦 Currently, I'm working as a Frontend Web Developer at [Leadoff](https://www.linkedin.com/company/joinleadoff/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.html**, **.css**.
+- 💻 I use daily **.tsx**, **.jsx**, **.css**.
 - 🌐 Checkout my [portfolio](https://sunnydhanwani.netlify.app/)
-- 📖 I am currently reading **Rich Dad Poor Dad** by Robert Kiyosaki
 - 💬 Talk to me about silicon valley, startups, movies & series.
 - 📧 Contact me at: [dhanwanisunny678@gmail.com](mailto:dhanwanisunny678@gmail.com)
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobeillustrator" width="55" height="55"/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+</p>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=redux,dart,flutter,mongodb,mysql,firebase,git" />
 </p>
 
 ---
