@@ -5,7 +5,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 Currently, I'm working as a Frontend Web Developer at [Leadoff](https://www.linkedin.com/company/joinleadoff/)
+- 🏦 Currently, I'm working as a Software Engineer at [5Paisa](https://5paisa.com/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.tsx**, **.jsx**, **.css**.
 - 🌐 Checkout my [portfolio](https://sunnydhanwani.netlify.app/)
